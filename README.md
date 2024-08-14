@@ -1,7 +1,3 @@
-Here's a README file template for your Dad Jokes React project based on the provided example:
-
----
-
 # Dad Jokes 😂
 
 Dad Jokes is a fun web application that serves up classic dad jokes to lighten your day. Users can enjoy a series of randomly generated dad jokes and rate them with a thumbs-up or thumbs-down.
