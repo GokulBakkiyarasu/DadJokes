@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DadJokes/static/css/main.b4c5bc39.css",
+    "main.js": "/DadJokes/static/js/main.86756d05.js",
+    "index.html": "/DadJokes/index.html",
+    "main.b4c5bc39.css.map": "/DadJokes/static/css/main.b4c5bc39.css.map",
+    "main.86756d05.js.map": "/DadJokes/static/js/main.86756d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c5bc39.css",
+    "static/js/main.86756d05.js"
+  ]
+}
